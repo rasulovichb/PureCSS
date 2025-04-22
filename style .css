@@ -1,0 +1,21 @@
+h1{
+  padding: 550px;
+}
+p{
+  background-color: rgb(160, 12, 12);
+}
+p {
+border: 20px solid rgb(160, 12, 12);
+}
+body{
+  margin: auto;
+}
+h1 {
+  text-align: center;
+ }
+h1{
+  font-variant: 20px;
+}
+p {
+  margin: auto;
+}
